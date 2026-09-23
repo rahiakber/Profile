@@ -1,0 +1,18 @@
+/* Global styles for the dark theme and professional look */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Custom scrollbar for a modern feel */
+body::-webkit-scrollbar {
+  width: 8px;
+}
+
+body::-webkit-scrollbar-thumb {
+  background-color: #483D8B; /* secondary-accent */
+  border-radius: 10px;
+}
+
+body::-webkit-scrollbar-track {
+  background-color: #0A192F; /* background-dark */
+}

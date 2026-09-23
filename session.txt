@@ -1,0 +1,4 @@
+
+d:\AiCode\profile>npm run dev
+
+opencode -s ses_f385d27b6ffe5V982nEWAcFK3K

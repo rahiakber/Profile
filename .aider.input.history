@@ -1,0 +1,455 @@
+
+# 2026-09-22 09:32:19.772022
++n
+
+# 2026-09-22 09:32:44.614457
++Create a modern, professional, high-performance **developer portfolio website** for a senior software developer.
++
++## Developer Profile
++
++**Name:** Akber Hossin
++**Role:** Senior Software Developer / Full-Stack .NET Developer
++**Location:** Chattogram, Bangladesh
++**Experience:** 15+ years of software development experience
++**Education:** B.Sc. in Computer Science
++
++### Primary Skills
++
++* C#
++* ASP.NET MVC
++* ASP.NET Core
++* .NET
++* SQL Server
++* REST APIs
++* JavaScript
++* HTML5 / CSS3
++* Bootstrap
++* Entity Framework
++* IIS
++* Git / GitHub
++* Crystal Reports
++* Stimulsoft Reports
++* Database Design
++* System Architecture
++* AI / LLM Integration
++
++## Website Goal
++
++Build a polished personal developer portfolio that presents Akber as an experienced software engineer who specializes in **enterprise applications, .NET development, SQL Server, business systems, reporting, APIs, and AI-powered software solutions**.
++
++The website should feel like a real professional developer's website—not a generic template.
++
++## Design Direction
++
++Use a clean, premium, modern developer aesthetic.
++
++* Dark theme by default
++* Optional light/dark mode
++* Professional typography
++* Subtle gradients
++* Glassmorphism only where appropriate
++* Smooth animations
++* Excellent spacing
++* Responsive design
++* Mobile-first
++* Minimal but impressive visual effects
++* Avoid excessive animations or flashy effects
++* Use a professional blue/purple accent
++* Use code/developer-inspired visual elements subtly
++
++The design should communicate:
++
++**Experienced • Reliable • Technical • Enterprise-focused • Problem Solver**
++
++## Homepage
++
++Create a strong hero section.
++
++Display:
++
++**Akber Hossin**
++
++**Senior Software Developer | .NET & SQL Server Specialist**
++
++Short introduction:
++
++"Building reliable enterprise software, business applications, APIs, databases, and AI-powered solutions with 15+ years of development experience."
++
++Add buttons:
++
++* View My Work
++* Download Resume
++* Contact Me
++
++Also include social links:
++
++* GitHub
++* LinkedIn
++* Email
++
++Add a small availability/status indicator such as:
++
++"Open to interesting software engineering opportunities"
++
++## Hero Visual
++
++Create a modern developer-themed visual on the right side.
++
++Possible design:
++
++A floating code editor window showing C# code:
++
++```csharp
++public class SoftwareEngineer
++{
++    public string Name => "Akber Hossin";
++    public int Experience => 15;
++
++    public string[] Skills =>
++    [
++        ".NET",
++        "C#",
++        "SQL Server",
++        "ASP.NET Core",
++        "AI"
++    ];
++}
++```
++
++Add subtle animated terminal/code effects.
++
++## About Section
++
++Create an About Me section explaining that Akber is an experienced software developer focused on building business-critical enterprise applications.
++
++Highlight:
++
++* 15+ years development experience
++* Enterprise application development
++* .NET ecosystem
++* SQL Server and database architecture
++* API development
++* Reporting systems
++* Legacy system modernization
++* AI/LLM integration
++* Production deployment and IIS
++* System troubleshooting and optimization
++
++Include statistics:
++
++**15+** Years Experience
++**100+** Business Features Delivered
++**Enterprise** Application Experience
++**.NET** Technology Focus
++
++Do not invent fake client names, awards, certifications, or project statistics.
++
++## Skills Section
++
++Create visually attractive skill categories.
++
++### Backend
++
++* C#
++* ASP.NET MVC
++* ASP.NET Core
++* .NET
++* REST API
++* Entity Framework
++
++### Database
++
++* Microsoft SQL Server
++* T-SQL
++* Stored Procedures
++* Query Optimization
++* Database Design
++* Performance Tuning
++
++### Frontend
++
++* HTML5
++* CSS3
++* JavaScript
++* Bootstrap
++* Responsive UI
++
++### Reporting
++
++* Crystal Reports
++* Stimulsoft Reports
++* PDF/Excel Reporting
++
++### DevOps / Infrastructure
++
++* IIS
++* Windows Server
++* Git
++* GitHub
++* SQL Server Administration
++
++### AI
++
++* LLM Integration
++* RAG
++* Local AI
++* Ollama
++* AI-powered SQL generation
++* AI developer tools
++
++Display skills as modern cards or badges.
++
++## Featured Projects
++
++Create a portfolio section with detailed project cards.
++
++### Project 1 — Enterprise Data Management System
++
++Technology:
++C#, ASP.NET, SQL Server, Crystal Reports
++
++Description:
++"Enterprise business management software supporting booking, production, delivery, invoicing, receivables, reporting, and operational workflows."
++
++### Project 2 — AI Data Assistant
++
++Technology:
++Python, Flask, React, SQL Server, LLM, RAG, Chroma
++
++Description:
++"An AI-powered data assistant that converts natural-language questions into validated SQL queries and presents business data through a modern interface."
++
++### Project 3 — Support Management System
++
++Technology:
++ASP.NET Core 8, SQL Server, Bootstrap
++
++Description:
++"A production-oriented support and ticket management platform for managing users, tickets, ticket details, workflows, and support operations."
++
++### Project 4 — Executive Dashboard
++
++Technology:
++ASP.NET Core, SQL Server, JavaScript
++
++Description:
++"Business intelligence dashboard providing executives with sales, realization, adjustment, receivable, and financial performance information."
++
++Each project card should contain:
++
++* Project title
++* Description
++* Technologies
++* Key features
++* GitHub/demo button where applicable
++
++Do not create fake GitHub URLs. Use placeholders until real URLs are provided.
++
++## Experience Timeline
++
++Create a professional vertical timeline.
++
++### Assistant Manager / Software Development
++
++KDS Accessories Limited
++Chattogram, Bangladesh
++2011 – Present
++
++Focus areas:
++
++* Enterprise software development
++* .NET applications
++* SQL Server
++* Business process automation
++* Reporting
++* System maintenance
++* Application optimization
++* Production support
++
++Add a separate section for earlier software development experience without inventing employer names or dates.
++
++## Technical Expertise
++
++Create a section explaining practical expertise:
++
++### Enterprise Software
++
++Design and maintain large business applications supporting real-world operational workflows.
++
++### Database Engineering
++
++Develop complex SQL queries, stored procedures, reports, database structures, and performance optimizations.
++
++### Application Architecture
++
++Build maintainable layered applications and REST APIs using modern .NET technologies.
++
++### AI Integration
++
++Integrate LLMs into business applications for natural-language data access, automation, and developer productivity.
++
++### Legacy Modernization
++
++Modernize older applications while maintaining compatibility with existing business processes and databases.
++
++## GitHub Section
++
++Create a GitHub-style contribution/activity section.
++
++Use a placeholder for the real GitHub profile:
++
++GitHub: `github.com/rahiakber`
++
++Include a button:
++
++**View GitHub Profile**
++
++Do not fabricate repository statistics.
++
++## Resume Section
++
++Create a professional resume preview/download area.
++
++Heading:
++
++**My Resume**
++
++Text:
++
++"Download my resume to explore my professional experience, technical skills, and software development background."
++
++Button:
++
++**Download Resume**
++
++Use `/resume.pdf` as a placeholder until the actual resume is supplied.
++
++## Contact Section
++
++Create a professional contact form.
++
++Fields:
++
++* Name
++* Email
++* Subject
++* Message
++
++Button:
++
++**Send Message**
++
++Also show:
++
++Email
++GitHub
++LinkedIn
++Location: Chattogram, Bangladesh
++
++Do not expose any private information.
++
++## Footer
++
++Footer should contain:
++
++**Akber Hossin**
++
++"Senior Software Developer | .NET | SQL Server | AI"
++
++Navigation:
++
++About | Skills | Projects | Experience | Contact
++
++Include:
++
++© 2026 Akber Hossin. All rights reserved.
++
++## Technical Requirements
++
++Use a modern production-quality architecture.
++
++Preferred stack:
++
++* React
++* TypeScript
++* Vite or Next.js
++* Tailwind CSS
++* Lucide icons
++* Framer Motion where appropriate
++
++Requirements:
++
++* Fully responsive
++* Semantic HTML
++* SEO-friendly
++* Accessible
++* Fast loading
++* Clean component architecture
++* Reusable components
++* Strong TypeScript typing
++* No unnecessary dependencies
++* No hardcoded fake statistics
++* No fake testimonials
++* No fake client logos
++* No fake certifications
++* No fabricated project URLs
++
++## UX Features
++
++Add:
++
++* Sticky navigation
++* Smooth scrolling
++* Active navigation indicator
++* Dark/light theme toggle
++* Scroll reveal animations
++* Hover effects
++* Project filtering by technology
++* Back-to-top button
++* Mobile navigation menu
++* Copy email button
++* Accessible keyboard navigation
++
++Animations should be subtle and professional.
++
++## SEO
++
++Add:
++
++Title:
++
++"Akber Hossin | Senior Software Developer | .NET & SQL Server"
++
++Meta description:
++
++"Portfolio of Akber Hossin, a senior software developer specializing in .NET, C#, SQL Server, enterprise applications, APIs, reporting systems, and AI-powered software."
++
++Include Open Graph metadata and appropriate structured data for a Person/SoftwareDeveloper portfolio.
++
++## Important
++
++Do not make the website look like a generic AI-generated portfolio.
++
++The final result should look like a **premium professional software engineer portfolio suitable for international job applications and consulting opportunities**.
++
++Prioritize:
++
++1. Professional credibility
++2. Technical depth
++3. Clean visual hierarchy
++4. Excellent UX
++5. Performance
++6. Responsive design
++7. Authenticity
++
++Generate the complete working website with reusable components, realistic placeholder content where information is missing, and clear comments showing where I should replace placeholder links/content.
++
+
+# 2026-09-22 10:06:11.233350
++y
+
+# 2026-09-22 10:08:28.622703
++how to run this website 
+
+# 2026-09-22 10:22:19.917106
++vgg
